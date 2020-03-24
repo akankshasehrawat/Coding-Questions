@@ -31,6 +31,6 @@ int main()
 	{
 		cout<<num<<" found at position "<<pos;
 	}
-	getch();
+	
     return 0;
 }
